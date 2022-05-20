@@ -252,7 +252,7 @@ In JSON, redirects are defined as a top-level property:
 
 ### DOM elements
 
-Arbitrary HTMLElements may be placed anywhere in your layout. You may define arbirary dom elements in both HTML and JSON.
+Arbitrary HTMLElements may be placed anywhere in your layout. You may define arbitrary dom elements in both HTML and JSON.
 
 single-spa-layout only supports updating DOM elements during route transitions. Arbitrary re-renders and updates are not supported.
 
